@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kevin Patel </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sahil Sarwar </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
 
@@ -37,8 +37,3 @@
 <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
----
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
-
-Last Updated On: 13/06/2021
